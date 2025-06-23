@@ -19,4 +19,10 @@ Este é um sistema para um hortifruti desenvolvido em C++ para gerenciar o estoq
 
 - C++ (linguagem de programação)
 
+## 📂 Estrutura do Repositório
 
+```plaintext
+.
+├── .DS_Store
+├── README.md
+└── sistema.cpp
